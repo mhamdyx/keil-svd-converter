@@ -1,0 +1,8 @@
+# CMSIS-SVD source files
+*.svd
+
+# Generated Keil SFR files
+*.sfr
+
+# Local device-pack testing directory
+mySFRs/
